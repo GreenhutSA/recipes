@@ -1,4 +1,4 @@
-Ingredients:
+# Ingredients:
 - 2 avocados
 - 1 lime
 - 1/2 tsp salt
@@ -8,7 +8,7 @@ Ingredients:
 - 1/2 tsp garlic powder
 - 1/2 bunch cilantro
 
-Instructions:
+# Instructions:
 - chop avocados
 - chop onion
 - chop tomato
